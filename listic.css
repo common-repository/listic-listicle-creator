@@ -1,0 +1,18 @@
+.listic-item-number{
+	list-style: none; 
+	display: inline-block; 
+	padding: 3px; 
+	margin-right: 5px; 
+	border: 1px solid #ccc; 
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.listic-item-number:hover{
+	background-color: #ccc;
+}
+
+
+.listic-current-item-number{
+	background-color: #ccc;
+}
